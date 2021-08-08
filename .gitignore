@@ -1,0 +1,9 @@
+.gradle
+build/
+.idea/
+settings.gradle.kts
+*.class
+*.jar
+*.war
+*.ear
+build.gradle.kts
